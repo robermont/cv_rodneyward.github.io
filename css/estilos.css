@@ -1,0 +1,21 @@
+.tituloNombre{
+    font-family: 'Gloock', serif;
+}
+
+.miBoton {
+    background-color: rgb(108,117,125);
+    color: white;
+    padding: 5px 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .alineaForm{
+    margin-top: 20px;
+  }
+
+.alineaComentario{
+    margin-top: 20px;
+}
